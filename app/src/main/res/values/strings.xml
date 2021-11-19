@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TextoSpiner</string>
+
+    <array name="Indiomas">
+      <item>Portugues</item>
+        <item>Italiano</item>
+        <item>Portugues</item>
+
+
+
+
+
+    </array>
+</resources>
